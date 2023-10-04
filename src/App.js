@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="Test">
       <h1>I am a Demo</h1>
-      <h2 className='Oi'>Getting to know Netify</h2>
+      <h2 className='Oi'>Getting to know Netlify</h2>
     </div>
   );
 }
